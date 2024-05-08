@@ -4,8 +4,7 @@ Jasper Studio, Jasper Server and Node JS Express
 
 ## Architecture Solution
 
-<img src="images/jasper_studio.png">
-
+<img src="images/architecture.png">
 
 
 # Descripion
