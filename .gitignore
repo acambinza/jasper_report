@@ -1,3 +1,4 @@
 jasperreports_data
 mariadb_data
 .env
+node_modules
